@@ -37,10 +37,9 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento web, análise 
   <img width="12" />
   <img src= "https://github.com/sempostma/office365-icons/blob/master/png/1024/word.png?raw=true" width="40" alt="word logo" />
   <img width="12" />
-  <img src= "https://github.com/losuler/com.cisco.PacketTracer/blob/master/com.cisco.PacketTracer.png?raw=true" width="40" alt="assembly logo"  />
+  <img src= "https://github.com/losuler/com.cisco.PacketTracer/blob/master/com.cisco.PacketTracer.png?raw=true" width="40" alt="cisco logo"  />
   <img width="12" />
-  <img src="https://www.nasm.us/images/nasm.png" width="40" alt="word logo"  />
-</div>
+  
 
 ###
 
