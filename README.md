@@ -39,7 +39,9 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento web, análise 
   <img width="12" />
   <img src= "https://github.com/losuler/com.cisco.PacketTracer/blob/master/com.cisco.PacketTracer.png?raw=true" width="40" alt="cisco logo"  />
   <img width="12" />
-  
+  <img src= "https://github.com/flathub/com.st.STM32CubeIDE/blob/master/icon.png?raw=true" width="40" alt="stm32 logo"  />
+  <img width="12" />
+ 
 
 ###
 
