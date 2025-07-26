@@ -16,11 +16,7 @@
 
 Atualmente, estou ampliando meus conhecimentos em desenvolvimento web, análise de dados e sistemas embarcados, sempre buscando aplicar o que aprendo em projetos práticos e colaborativos. Estou aberto a contribuir com repositórios, aprender com outros desenvolvedores e participar de soluções que impactem positivamente a comunidade.</h3>
 
-###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
@@ -41,9 +37,9 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento web, análise 
   <img width="12" />
   <img src= "https://github.com/sempostma/office365-icons/blob/master/png/1024/word.png?raw=true" width="40" alt="word logo" />
   <img width="12" />
-  <img src= "https://github.com/losuler/com.cisco.PacketTracer/blob/master/com.cisco.PacketTracer.png?raw=true" width="40" alt="word logo"  />
+  <img src= "https://github.com/losuler/com.cisco.PacketTracer/blob/master/com.cisco.PacketTracer.png?raw=true" width="40" alt="assembly logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://www.nasm.us/images/nasm.png" width="40" alt="word logo"  />
 </div>
 
 ###
@@ -52,6 +48,4 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento web, análise 
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
