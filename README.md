@@ -7,7 +7,7 @@
 <h3 align="center">
   👨‍💻 Estudante de Engenharia da Computação na UNIFOR <br/>
   💡 Apaixonado por tecnologia, inovação e soluções integradas entre hardware e software <br/>
-  🚀 Sempre em busca de aprender mais e aplicar meu conhecimento em projetos práticos e colaborativos
+  🚀 Sempre em busca de aprender mais e aplicar meus conhecimentos em projetos práticos e colaborativos
 </h3>
 
 ---
