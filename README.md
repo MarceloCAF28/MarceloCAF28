@@ -59,6 +59,6 @@ Sou apaixonado por transformar ideias em soluções concretas, sejam elas protó
 - 📧 Email: mcaffilho28@gmail.com  
 - 📱 Telefone: (85) 98776-8119  
 - 🧭 GitHub: [github.com/MarceloCAF28](https://github.com/MarceloCAF28)
-
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/marcelo-carvalho-4b60b5370)]
 ---
 
